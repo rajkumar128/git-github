@@ -3,3 +3,5 @@ This is the first remote git repo added by me
 Hey i am changing my file and checking the status now
 
 file edited can be seen in git repo
+
+I am writing something in the git repo and pulling this repo back to my local repo 
