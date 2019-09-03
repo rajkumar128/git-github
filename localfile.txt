@@ -1,1 +1,3 @@
 This is the first remote git repo added by me 
+
+Hey i am changing my file and checking the status now
